@@ -3,6 +3,7 @@ This project implements a simple echo server and client which uses TCP/IP for co
 Programming language used: JAVA
 
 How to compile : javac echoserver.java
+
 To run         : java echoserver
 
 Do the same for echoclient.java file

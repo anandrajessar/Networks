@@ -1,0 +1,5 @@
+Implement a simple echo server and client which uses TCP/IP for the communication. The client after establishing the connection, sends server a message which the latter echoes (i.e., the server prints out the message). The server should be capable of handling multiple clients. The clients need to know the address of server (IP address and port) it wants to communicate to beforehand.
+
+Use a character string (char buffer[256]) as the buffer from which sockets read and write the messages to be exchanged.
+
+Your client-server should not be a standalone pair of program. Your server should be able to accept connections from other clients and echo their message. Also you should be able to contact other servers and send a message to be echoed.

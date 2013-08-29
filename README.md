@@ -1,15 +1,6 @@
-This project implements a simple echo server and client which uses TCP/IP for communication.
+These projects are implemented as a part of lab assignments for my master degree
 
-Programming language used: JAVA
+Current projects :
 
-How to compile : javac echoserver.java
-
-To run         : java echoserver
-
-Do the same for echoclient.java file
-
-To test        :
-          
-          1. Compile and run echoserver.java
-          2. Compile and run echoclient.java
-          3. Input the hostname and port number
+  1. Implementation of an echo server using Java programming 
+  2. Packet sniffing

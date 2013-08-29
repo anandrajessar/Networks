@@ -2,4 +2,12 @@ Learn how to sniff the packets
 
 Get familiarized with Wireshark
 
-Read the pdf document
+Read the pdf document to get step by step instructions
+
+Platform : Linux Ubuntu
+
+Prerequisites:
+
+ 1.Learn how to install packages in linux using apt-get
+ 2.Basics of pinging to an IP
+ 3.That's all !! Start sniffing packets ..
